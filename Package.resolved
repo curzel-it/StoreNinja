@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "barebones",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/curzel-it/barebones",
+      "state" : {
+        "revision" : "0b7eb9f986154b295dd641cd8d3fde6d6e38e385",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "schwifty",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/curzel-it/schwifty",
+      "state" : {
+        "revision" : "1583ad26f69346caa7274137eebf4453261ba159",
+        "version" : "1.0.19"
+      }
+    }
+  ],
+  "version" : 2
+}
